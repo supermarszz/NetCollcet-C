@@ -1,0 +1,3 @@
+ziglang==0.13.0
+cmake==4.4.4
+ninja==1.13.2

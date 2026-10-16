@@ -1,0 +1,30 @@
+[
+  {
+    "name": "libssh2", "version": "1.11.1",
+    "url": "https://libssh2.org/download/libssh2-1.11.1.tar.gz",
+    "archive": "libssh2.tar.gz",
+    "sha256": "D9EC76CBE34DB98EEC3539FE2C899D26B0C837CB3EB466A56B0F109CABF658F7",
+    "format": "tar.gz", "extracted": "libssh2-1.11.1", "destination": "libssh2", "marker": "CMakeLists.txt"
+  },
+  {
+    "name": "miniz", "version": "3.0.2",
+    "url": "https://github.com/richgel999/miniz/archive/refs/tags/3.0.2.zip",
+    "archive": "miniz.zip",
+    "sha256": "1B4FAC7144A64D8D26C4642C25BD5B237599071EAF7C12FC6EAFF294AF31E931",
+    "format": "zip", "extracted": "miniz-3.0.2", "destination": "miniz", "marker": "miniz.h"
+  },
+  {
+    "name": "Expat", "version": "2.7.1",
+    "url": "https://github.com/libexpat/libexpat/archive/refs/tags/R_2_7_1.zip",
+    "archive": "expat.zip",
+    "sha256": "7819229589933A60C0F0DAC60C784097C42A90B7E2915F7A63FC93390B84919C",
+    "format": "zip", "extracted": "libexpat-R_2_7_1", "destination": "libexpat", "marker": "expat/CMakeLists.txt"
+  },
+  {
+    "name": "libtelnet", "version": "0.23",
+    "url": "https://github.com/seanmiddleditch/libtelnet/archive/refs/tags/0.23.zip",
+    "archive": "libtelnet.zip",
+    "sha256": "3569730FC09F33E13817A882F991ED766365362249B0713EDCCA74ACB21B4169",
+    "format": "zip", "extracted": "libtelnet-0.23", "destination": "libtelnet", "marker": "libtelnet.h"
+  }
+]
